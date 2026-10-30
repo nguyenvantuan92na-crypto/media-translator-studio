@@ -1,0 +1,19 @@
+{
+  "data": {
+    "ung_dung": "Media Translator Studio",
+    "phien_ban": "v40.6",
+    "ngay": "2026-10-30",
+    "ghi_chu": "chinh sua thong tin",
+    "exe": {
+      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v40.6/Media_Translator_Studio.exe",
+      "sha256": "1981e30d889dba0698277c9a88d1898aac8c44c2ec2432fe6af932bf860bb3ac",
+      "kich_thuoc": 480545998
+    },
+    "py": {
+      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v40.6/Media_Translator_Studio_v40.6.py",
+      "sha256": "90bc17a3de21f6d62f038dc9ddac66abc52c901e4bf4a252d363fa15174dfcc1",
+      "kich_thuoc": 1353229
+    }
+  },
+  "chu_ky": "650bcf30844e63da22a1f66adfb08c5e25e3a40b61a50af8939a9db340dc70fd68ea444ecb47fcbac1b39094482a942bbb27fb4a9c21da9ae6cf024a928e5a05"
+}

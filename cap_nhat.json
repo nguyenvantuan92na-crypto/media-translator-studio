@@ -1,19 +1,19 @@
 {
   "data": {
     "ung_dung": "Media Translator Studio",
-    "phien_ban": "v40.6",
-    "ngay": "2026-10-30",
-    "ghi_chu": "chinh sua thong tin",
+    "phien_ban": "v41.8",
+    "ngay": "2026-11-03",
+    "ghi_chu": "sua lai cac o chuc nang",
     "exe": {
-      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v40.6/Media_Translator_Studio.exe",
-      "sha256": "1981e30d889dba0698277c9a88d1898aac8c44c2ec2432fe6af932bf860bb3ac",
-      "kich_thuoc": 480545998
+      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v41.8/Media_Translator_Studio.exe",
+      "sha256": "008bc344545b11f9e6c39f9e63e852e513a0d63918b661de501a2a9b4e931c1e",
+      "kich_thuoc": 480617549
     },
     "py": {
-      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v40.6/Media_Translator_Studio_v40.6.py",
-      "sha256": "90bc17a3de21f6d62f038dc9ddac66abc52c901e4bf4a252d363fa15174dfcc1",
-      "kich_thuoc": 1353229
+      "url": "https://github.com/nguyenvantuan92na-crypto/media-translator-studio/releases/download/v41.8/Media_Translator_Studio_v41.8.py",
+      "sha256": "8d416b2083ab8e19eda92ef2db91779b31a6505e78532d34c413b5915a1d7f29",
+      "kich_thuoc": 1392408
     }
   },
-  "chu_ky": "650bcf30844e63da22a1f66adfb08c5e25e3a40b61a50af8939a9db340dc70fd68ea444ecb47fcbac1b39094482a942bbb27fb4a9c21da9ae6cf024a928e5a05"
+  "chu_ky": "5081dbe6b6c51106dcc0e598a236828741adce096e2455482eeec0a822ebef66442f8bb8f68400cfc1c8e8d02ecaa3874688c6906f69d6dbafe7b321cc6a7a0d"
 }
